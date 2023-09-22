@@ -1,7 +1,5 @@
-# Vue 3 + Vite
+# Office
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<img src="https://user-images.githubusercontent.com/85259321/179426152-5e6ed30d-fd59-4f0b-bade-c8920ce52901.gif" style='width:400px' /> <br/>
+<a target="_blank" href="https://pietrobragaaquinojunior.github.io/office/">https://pietrobragaaquinojunior.github.io/office/</a> <br/>
+(Clone da página principal do site <a target="_blank" href="https://www.office.com/">https://www.office.com/</a>) <br/>
